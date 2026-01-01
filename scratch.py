@@ -1,7 +1,10 @@
 import json
 import pandas as pd
 
-# 1. Update the path to include your subfolders
+
+
+
+'''# 1. Update the path to include your subfolders
 file_path = 'data/raw/LEA.json' 
 
 try:
@@ -24,7 +27,7 @@ except FileNotFoundError:
     print(f"Error: The file was not found at {file_path}")
     print("Check if your 'data' folder is in the same place as your scratch.py script.")
 
-'''
+
 cleaned_cards = []
 for card in cards_list:
     cleaned_card = {

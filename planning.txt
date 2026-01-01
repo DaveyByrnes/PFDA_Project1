@@ -9,3 +9,48 @@ lea - alpha scarcity
 leb - beta scarcity
 
 need to figure out how to combine price with sets
+
+Part One - Card Features and Mana Cost
+Modern Horizons
+analyse manaValue in a histogram
+analyse card types
+create chart of most frequent keywords - density
+power vs toughness - does the set favour glass cannons or big defense?
+
+Part Two - usage
+legalities in json
+permission and price availability
+most alpha cards have zero usage in modern tournaments because
+they aren't legal.
+Pie/Bar showing legality of Alpha Cards in 202X.
+
+Use EDHREC
+manually create CSV from top MH3 cards
+Correlate mana value/number of keywords equals usage
+more keywords, more often used??
+
+Complexity Comparsion between MH3 and Alpha
+Power Creep visual
+
+Outliers of Alpha Cards with high usage, reprints
+alpha versions of cards may be rare, but there are reprints
+
+Part 3 - value
+
+Combine json with manual csv values
+current prices usd/eur, original release year, reserved list?
+pd merge
+
+scatter plot of EDHREC usage vs price, colours to denote sets
+
+analysis portion
+
+reserved list - unreprintable cards creating price floor
+reserved list policy from WOTC
+
+Cross Set Synergy
+Sheoldred effect
+combo cards exploding old cards from old sets
+
+True Value of Cards
+END
