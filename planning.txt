@@ -1,0 +1,11 @@
+Sets that would be good for analysis
+
+MH3 - The modern standard. Will be a good vehicle to explain competitiveness
+and card mechanics
+LTR - One Ring, Orcish Bowmasters, combination with Sheoldred, how one set
+causes value in another
+CMM - commander popularity
+lea - alpha scarcity
+leb - beta scarcity
+
+need to figure out how to combine price with sets
